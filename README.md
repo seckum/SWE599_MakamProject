@@ -5,5 +5,5 @@
 # How to Use
 
 -Clone the main directory  
--Pip install requirement.txt  
+-Pip install -r requirements.txt  
 -Check class import names, sometimes it couldn't read the different classes. Try to delete or add makamproject_Seckin to the "from" section.
